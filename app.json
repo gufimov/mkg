@@ -1,6 +1,6 @@
 {
-    "name": "Python-Drive-Bot",
-    "description": "Telegram-Direct-Mirror to G-Drive",
+    "name": "Bot",
+    "description": "Telegram",
     "logo": "https://telegra.ph/file/e15e9ac9c5885b015e3ab.jpg",
     "keywords": [
       "telegram",
@@ -8,9 +8,9 @@
       "aria",
       "python"
     ],
-    "repository": "https://github.com/AbirHasan2005/magneto-python-aria.git",
-    "website": "https://github.com/AbirHasan2005/magneto-python-aria/tree/main",
-    "success_url": "https://github.com/AbirHasan2005/magneto-python-aria/blob/main/README.md",
+    "repository": "https://github.com/hhia.git",
+    "website": "https://github.com/hhia/tree/main",
+    "success_url": "https://github.com/hhia/blob/main/README.md",
     "stack": "container",
     "env": {
       "ENV": {
